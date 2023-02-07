@@ -8,7 +8,6 @@ class SimpleCalculator {
     private double num2;
 
     public double getNum1(){
-
         return num1;
     }
     public double getNum2(){
